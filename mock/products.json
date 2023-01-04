@@ -1,0 +1,194 @@
+[
+  {
+    "id": "1",
+    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_769912-MLA46490092919_062021-O.jpg",
+    "brand": "Xiaomi",
+    "model": "Redmi Note 10S",
+    "price": "250",
+    "cpu": "2.05GHz",
+    "ram": "6GB",
+    "so": "MIUI",
+    "displayResolution": "6.43\"",
+    "battery": "5000 mAh",
+    "dimentions": "160.5mm x 74.5mm x 8.3mm",
+    "weight": "179 g",
+    "primaryCamera": "64MP + 8MP + 2MP + 2MP",
+    "secondaryCmera": "13MP",
+    "options": {
+      "color": [
+        {
+          "code": "1",
+          "name": "black"
+        }
+      ],
+      "storage": [
+        {
+          "code": "1",
+          "name": "64GB"
+        },
+        {
+          "code": "2",
+          "name": "128GB"
+        }
+      ]
+    }
+  },
+  {
+    "id": "2",
+    "imgUrl": "https://www.pakmobizone.pk/wp-content/uploads/2022/07/Samsung-Galaxy-A13-Awesom-Black-7.png",
+    "brand": "Samsung",
+    "model": "Galaxy A13",
+    "price": "200",
+    "cpu": "2.0GHz",
+    "ram": "4GB",
+    "so": "Android",
+    "displayResolution": "6.6\"",
+    "battery": "5000 mAh",
+    "dimentions": "165.1mm x 76.4mm x 8.8mm",
+    "weight": "195 g",
+    "primaryCamera": "50MP + 5MP + 5MP + 2MP",
+    "secondaryCmera": "8MP",
+    "options": {
+      "color": [
+        {
+          "code": "1",
+          "name": "black"
+        }
+      ],
+      "storage": [
+        {
+          "code": "1",
+          "name": "64GB"
+        }
+      ]
+    }
+  },
+  {
+    "id": "3",
+    "imgUrl": "https://http2.mlstatic.com/D_NQ_NP_747695-MLA48696720797_122021-O.jpg",
+    "brand": "Nokia",
+    "model": "Nokia C20",
+    "price": "110",
+    "cpu": "1.6GHz",
+    "ram": "2GB ",
+    "so": "Android",
+    "displayResolution": "6.5\"",
+    "battery": "3000 mAh",
+    "dimentions": "169.9mm x 77.9mm x 8.8mm",
+    "weight": "191g",
+    "primaryCamera": "5MP",
+    "secondaryCmera": "5MP",
+    "options": {
+      "color": [
+        {
+          "code": "1",
+          "name": "black"
+        }
+      ],
+      "storage": [
+        {
+          "code": "1",
+          "name": "32GB"
+        }
+      ]
+    }
+  },
+  {
+    "id": "4",
+    "imgUrl": "https://coolboxpe.vtexassets.com/arquivos/ids/225303-800-auto?v=637961877706900000&width=800&height=auto&aspect=true",
+    "brand": "Apple",
+    "model": "iPhone 12",
+    "price": "700",
+    "cpu": "3.10GHz",
+    "ram": "4GB",
+    "so": "iOS 14",
+    "displayResolution": "6.1\"",
+    "battery": "2815 mAh",
+    "dimentions": "146.7mm x 71.5mm x 7.4mm",
+    "weight": "164g",
+    "primaryCamera": "12MP + 12MP",
+    "secondaryCmera": "12MP",
+    "options": {
+      "color": [
+        {
+          "code": "1",
+          "name": "white"
+        },
+        {
+          "code": "2",
+          "name": "black"
+        }
+      ],
+      "storage": [
+        {
+          "code": "1",
+          "name": "64GB"
+        }
+      ]
+    }
+  },
+  {
+    "id": "5",
+    "imgUrl": "https://www.pcinfo-red.com/wp-content/uploads/2021/02/Reparar-lg-v50-pcinfored.png",
+    "brand": "LG",
+    "model": "LG V50 Thinq",
+    "price": "340",
+    "cpu": "2.84GHz",
+    "ram": "6GB",
+    "so": "Android 9 Pie",
+    "displayResolution": "6.4\"",
+    "battery": "4000 mAh",
+    "dimentions": "159.2mm x  76.1mm x 8.3mm",
+    "weight": "183g",
+    "primaryCamera": "16MP + 12MP + 12MP",
+    "secondaryCmera": "8MP + 5MP",
+    "options": {
+      "color": [
+        {
+          "code": "1",
+          "name": "white"
+        },
+        {
+          "code": "2",
+          "name": "black"
+        }
+      ],
+      "storage": [
+        {
+          "code": "1",
+          "name": "128GB"
+        }
+      ]
+    }
+  },
+  {
+    "id": "6",
+    "imgUrl": "https://res.cloudinary.com/dlmq0vtkk/image/upload/v1672865365/zte_blade_a51_tg51jl.jpg",
+    "brand": "ZTE",
+    "model": "Blade A51",
+    "price": "99",
+    "cpu": "1.6GHz",
+    "ram": "2GB",
+    "so": "Android 11 Go",
+    "displayResolution": "6.52\"",
+    "battery": "3200 mAh",
+    "dimentions": "166.5mm x 75.6mm x 8.5mm",
+    "weight": "173.7g",
+    "primaryCamera": "13MP + 2MP",
+    "secondaryCmera": "5MP",
+    "options": {
+      "color": [
+        {
+          "code": "1",
+          "name": "white"
+        }
+      ],
+      "storage": [
+        {
+          "code": "1",
+          "name": "32GB"
+        }
+      ]
+    }
+  }
+]
