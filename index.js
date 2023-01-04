@@ -1,4 +1,4 @@
-'use strict';
+"use strict";
 
 const express = require("express");
 const cors = require("cors");
@@ -30,6 +30,6 @@ app.use((_request, response) => {
   response.status(404).json({ error: "Not found", code: 404 });
 });
 
-const PORT = 8080;
+const PORT = process.env.PORT || 8080;
 
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
